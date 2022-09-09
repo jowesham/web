@@ -1,0 +1,204 @@
+body {
+  background-color: #FDEEDC;
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather', serif;
+}
+
+h1 {
+  width:30%;
+  margin:0 auto 0 auto;
+  font-family: 'Qwitcher Grypen',cursive;
+  font-size: 900%;
+  /* position:relative;
+  top:100px; */
+}
+
+h2 {
+  font-family: 'Yeseva One',san-serif;
+  color: #472D2D;
+  font-size: 2.5rem;
+  margin-top:50px;
+  /* font-weight: normal; */
+}
+
+h3 {
+  color: #472D2D;
+  font-size:2rem;
+}
+
+a {
+  font-family: 'Montserrat',san-serif;
+  color: #A77979;
+
+}
+
+p {
+  color: #614124;
+  /* margin:40px; */
+}
+
+hr {
+  /* padding-top:10px; */
+}
+
+
+.top-container {
+  background-color: #472D2D;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+
+.image_of_me {
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+}
+
+.dot_hr {
+  border-style: none;
+  border-top:dotted;
+  width:8%;
+  border-color: silver;
+  border-width: 8px;
+  position:center;
+  padding:10px;
+
+}
+
+.skill-row {
+  margin:100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row1 {
+  margin:100px auto 100px auto;
+  width: 50%;
+  text-align: right;
+  line-height: 2;
+}
+
+.t {
+  margin-bottom: 30px;
+}
+.network{
+  width:25%;
+  float:left;
+  margin: auto 50px auto auto;
+}
+
+.coding {
+  width: 25%;
+  float:right;
+  margin: auto auto auto 50px;
+}
+
+.research {
+  width: 25%;
+  float:left;
+  margin: auto 50px auto auto;
+}
+
+.mathematics {
+  width: 25%;
+  float:right;
+  margin: auto auto auto 50px;
+}
+
+.skills {
+  margin-top:50px;
+  margin-bottom: 50px;
+}
+
+.student {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right:300px;
+  top:50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left:300px;
+  bottom:350px;
+}
+
+.mountain {
+  /* position: relative;
+  top:100px; */
+  margin-top:80px;
+}
+
+
+.copyright {
+  margin-top: 10px;
+  text-align: center;
+  margin-left: 10px;
+  position: relative;
+  top: 20px;
+  right: 5px;
+  color: #FDEEDC;
+  font-size: 0.8rem;
+}
+
+.footer-link {
+  margin: 20px;
+  padding-top: 20px;
+  font-size: 1.1rem;
+  color:#E9DAC1;
+  text-decoration: none;
+
+}
+
+.footer-link:hover{
+  color: #A47E3B;
+}
+
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Georgia;
+  color: #e2e3d6;
+  font-size: 15px;
+  background: #4d383e;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #918a8c;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #483838;
+  margin-top:40px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+#name {
+
+  color: #FDEEDC;
+
+}
+#identification {
+  color: #FDEEDC;
+  padding-top: 30px;
+  font-family: 'Quicksand',sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  /* position:relative;
+  top:100px; */
+
+}
